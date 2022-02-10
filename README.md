@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotus0204&show_icons=true&theme=radical)
 <!--
 **lotus0204/lotus0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
